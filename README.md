@@ -2,10 +2,12 @@
 # Hi, I'm Muddassir Khalidi! 👋
 I'm a software engineering and data science student passionate about creating innovative solutions that make an impact!
 
+Stalk me here: [muddassirkhalidi.com](https://muddassirkhalidi.com)
+
 ## 🚀 Current Projects
 
 - 🌱 Working on [CALIX](https://github.com/MuddassirKhalidi/C.A.L.I.X.git), an AI memory assistant.
-- 🔧 Improving [Portfolio Website](https://muddassirkhalidi.com).
+- 🔧 Improving my [Portfolio Website](https://muddassirkhalidi.com).
 
 ## 🛠️ Skills & Tools
 
