@@ -1,4 +1,3 @@
-## السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 
 # Hi, I'm Muddassir Khalidi! 👋
 I'm a software engineering and data science student passionate about creating innovative solutions that make an impact!
 
@@ -10,11 +9,28 @@ Stalk me here: [muddassirkhalidi.com](https://muddassirkhalidi.com)
 - 🔧 Improving my [Portfolio Website](https://muddassirkhalidi.com).
 
 ## 🛠️ Skills & Tools
+### Languages: Python, JavaScript, Java, HTML5, CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
-- **Languages**: Python, JavaScript, Java, HTML5, CSS
-- **Frameworks**: Flask, React, Flutter
-- **Tools**: Git, Heroku, FAISS
-- **ULTIMATE TOOL**: CHATGPT
+### Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<br>
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white)
+<br>
+
+### ULTIMATE TOOL
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 💻 LeetCode occassionally!
 ### Check out other for fun coding sessions on [Coding-For-Fun](https://github.com/MuddassirKhalidi/code-for-fun.git)
