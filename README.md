@@ -16,7 +16,7 @@ Stalk me here: [muddassirkhalidi.com](https://muddassirkhalidi.com)
 - **Tools**: Git, Heroku, FAISS
 - **ULTIMATE TOOL**: CHATGPT
 
-## LeetCode occassionally!
+## 💻 LeetCode occassionally!
 ### Check out other for fun coding sessions on [Coding-For-Fun](https://github.com/MuddassirKhalidi/code-for-fun.git)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MuddassirKhalidi?theme=dark)
 
