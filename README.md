@@ -1,6 +1,5 @@
 # Hi, I'm Muddassir Khalidi! 👋
-I'm a software engineering and data science student passionate about creating innovative solutions that make an impact!
-
+I don't code for corporate. Corporates codes for me. 
 Stalk me here: [muddassirkhalidi.com](https://muddassirkhalidi.com)
 
 ## 🚀 Current Projects
