@@ -1,5 +1,6 @@
 # Hi, I'm Muddassir Khalidi! 👋
 I don't code for corporate. Corporates codes for me. 
+
 Stalk me here: [muddassirkhalidi.com](https://muddassirkhalidi.com)
 
 ## 🚀 Current Projects
