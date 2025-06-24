@@ -1,13 +1,6 @@
 # Hi, I'm Muddassir Khalidi! 👋
 I don't code for corporate. Corporates code for me. 
 
-Stalk me here: [muddassirkhalidi.com](https://muddassirkhalidi.com)
-
-## 🚀 Current Projects
-
-- 🌱 Working on [CALIX](https://github.com/MuddassirKhalidi/C.A.L.I.X.git), an AI memory assistant.
-- 🔧 Improving my [Portfolio Website](https://muddassirkhalidi.com).
-
 ## 🛠️ Skills & Tools
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
